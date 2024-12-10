@@ -1,0 +1,206 @@
+Disease,Diet
+Fungal infection,Probiotics
+Fungal infection,Garlic
+Fungal infection,Coconut Oil
+Fungal infection,Leafy Greens
+Fungal infection,Turmeric
+Allergy,Honey
+Allergy,Omega-3-rich foods
+Allergy,Vitamin C-rich foods
+Allergy,Herbal Teas
+Allergy,Avoid Processed Foods
+GERD,"Low-Fat, Lean Proteins"
+GERD,Oatmeal
+GERD,Bananas and Melons
+GERD,Green Vegetables
+GERD,Aloe Vera
+Chronic cholestasis,Low-Fat Diet
+Chronic cholestasis,High-Fiber Diet
+Chronic cholestasis,Lean proteins
+Chronic cholestasis,Whole grains
+Chronic cholestasis,Fresh fruits and vegetables
+Drug Reaction,Hydration
+Drug Reaction,Anti-inflammatory Foods
+Drug Reaction,Lean Proteins
+Drug Reaction,Antioxidant-Rich Foods
+Drug Reaction,Yogurt
+Peptic ulcer disease,Low-Acid Diet
+Peptic ulcer disease,Fiber-rich foods
+Peptic ulcer disease,Ginger
+Peptic ulcer disease,Cabbage
+Peptic ulcer disease,Aloe vera juice
+AIDS,Hydration
+AIDS,Protein-rich foods
+AIDS,Fruits and vegetables
+AIDS,Whole grains
+AIDS,Healthy fats
+Diabetes,Cinnamon
+Diabetes,Fiber-rich foods
+Diabetes,Lean proteins
+Diabetes,Healthy fats
+Diabetes,Low-fat dairy
+Gastroenteritis,Coconut Water
+Gastroenteritis,Bananas
+Gastroenteritis,Rice
+Gastroenteritis,Ginger Tea
+Gastroenteritis,Toast
+Bronchial Asthma,Garlic and Onion
+Bronchial Asthma,Fruits and vegetables
+Bronchial Asthma,"Omega-3-rich foods (Fatty fish, walnuts, and flax seeds )"
+Bronchial Asthma,Whole grains
+Bronchial Asthma,Lean proteins
+Hypertension,Berries
+Hypertension,"Low-sodium foods (fresh, whole foods)"
+Hypertension,Fruits and vegetables
+Hypertension,Beetroot
+Hypertension,Lean proteins
+Migraine,"Vitamin B2 (Eggs, dairy products)"
+Migraine,"Omega-3 Fatty Acids (Fatty fish, flax seeds, and walnuts)"
+Migraine,Ginger
+Migraine,Hydration
+Migraine,"Magnesium-rich foods (Almonds, spinach, and avocados)"
+Cervical spondylosis,"Anti-inflammatory Foods (Turmeric, ginger)"
+Cervical spondylosis,"Calcium-Rich Foods (Dairy products, leafy greens)"
+Cervical spondylosis,Vitamin D
+Cervical spondylosis,"Magnesium (Spinach, bananas, and nuts)"
+Cervical spondylosis,Whole Grains
+Paralysis (brain hemorrhage),"Protein-Rich Foods (Lean meats, fish and eggs)"
+Paralysis (brain hemorrhage),"Vitamin B12 (Chicken, eggs, and dairy products)"
+Paralysis (brain hemorrhage),"Antioxidants (Berries, spinach, and nuts)"
+Paralysis (brain hemorrhage),Omega-3 Fatty Acids (Fatty fish like salmon)
+Paralysis (brain hemorrhage),Hydrating Foods (Cucumbers and watermelon)
+Jaundice,"High-Quality Proteins (Chicken, turkey, and fish)"
+Jaundice,"Vitamin A-Rich Foods (Carrots, sweet potatoes, and spinach)"
+Jaundice,"Fiber-Rich Foods (Whole grains, fruits, and vegetables)"
+Jaundice,Healthy Fats (Olive oil and avocados)
+Jaundice,"Hydrating Foods (Watermelon, cucumbers, and coconut water)"
+Malaria,"Iron-Rich Foods (Spinach, lentils, and red meat)"
+Malaria,"Vitamin C (Citrus fruits, strawberries, and bell peppers)"
+Malaria,"High-Calorie Foods (Nuts, seeds, and avocados)"
+Malaria,Anti-inflammatory Foods (Turmeric and ginger)
+Malaria,Hydrating Foods (Coconut water and herbal teas)
+Chicken pox,"Vitamin C (Citrus fruits, bell peppers, and broccoli)"
+Chicken pox,"Protein-Rich Foods (Chicken, turkey, tofu, and beans)"
+Chicken pox,"Fluids (Water, herbal teas, and coconut water)"
+Chicken pox,Whole Grains (Brown rice and oats)
+Chicken pox,Honey
+Dengue,"High-Energy Foods (Bananas, oats, and sweet potatoes)"
+Dengue,Vitamin C (Citrus fruits and strawberries)
+Dengue,"Iron-Rich Foods (Red meat, spinach, and lentils)"
+Dengue,"Hydrating Foods (Coconut water, watermelon, and cucumber)"
+Dengue,Protein-rich foods
+Typhoid,"High-Calorie Foods (Smoothies with fruits, nuts, and seeds)"
+Typhoid,"Protein-Rich Foods (Chicken, fish and eggs)"
+Typhoid,"Anti-inflammatory Foods (Turmeric, ginger, and garlic)"
+Typhoid,"Easily Digestible Foods (Bananas, plain rice, and toast)"
+Typhoid,Hydration (Water and coconut water)
+hepatitis A,"High-Quality Protein (Skinless chicken, eggs, and fish)"
+hepatitis A,"Vitamin A (Carrots, sweet potatoes, and spinach)"
+hepatitis A,"Fiber-Rich Foods (Whole grains, fruits, and vegetables)"
+hepatitis A,Healthy Fats (Olive oil and avocado)
+hepatitis A,"Hydrating Foods (Watermelon, cucumbers, and coconut water)"
+Hepatitis B,High-Quality Protein (Chicken and turkey)
+Hepatitis B,"Vitamin C (Citrus fruits, bell peppers, and strawberries)"
+Hepatitis B,Omega-3 Fatty Acids (Fatty fish like salmon)
+Hepatitis B,"B-Vitamins (Eggs, leafy greens, and whole grains)"
+Hepatitis B,"Hydrating Foods (Drink plenty of water, coconut water, and herbal teas)"
+Hepatitis C,"Lean Proteins (Skinless chicken, turkey)"
+Hepatitis C,Antioxidants (Berries and spinach)
+Hepatitis C,"Healthy Fats (Olive oil, avocado, and nuts)"
+Hepatitis C,"Fiber-Rich Foods: (Whole grains, vegetables, and fruits)"
+Hepatitis C,"Hydration (Drink coconut water, herbal teas, and plenty of water)"
+Hepatitis D,"High-Protein Foods (Chicken, eggs, tofu, and beans)"
+Hepatitis D,Healthy Fats (Olive oil and omega-3 fatty acids from fatty fish)
+Hepatitis D,Vitamin C (Citrus fruits and leafy greens)
+Hepatitis D,"Fiber-Rich Foods (Brown rice, quinoa, and vegetables)"
+Hepatitis D,"Hydrating Foods (Drink plenty of water, coconut water, and herbal teas)"
+Hepatitis E,High-Protein Foods (Lean meats and eggs)
+Hepatitis E,"Vitamin A (Carrots, sweet potatoes, and leafy greens)"
+Hepatitis E,"Hydrating Foods (Watermelon, cucumbers and coconut water)"
+Hepatitis E,Fiber-Rich Foods (Whole grains and vegetables)
+Hepatitis E,"Anti-inflammatory Foods (Turmeric, ginger, and garlic)"
+Alcoholic hepatitis,"Protein-Rich Foods (Eggs, chicken, and legumes)"
+Alcoholic hepatitis,"B-Vitamins (Leafy greens, whole grains and eggs)"
+Alcoholic hepatitis,"Antioxidants (Berries, spinach, and broccoli)"
+Alcoholic hepatitis,Healthy Fats (Avocado and olive oil)
+Alcoholic hepatitis,"Hydrating Foods (Drink coconut water, herbal teas and water)"
+Tuberculosis,"Protein-Rich Foods (Chicken, fish, eggs, and beans)"
+Tuberculosis,"High-Calorie Foods (Nut butters, avocados, and smoothies)"
+Tuberculosis,"Iron-Rich Foods (Red meat, leafy greens, and beans)"
+Tuberculosis,Vitamin C (Citrus fruits and strawberries)
+Tuberculosis,"Hydration (Drink plenty of fluids like water, coconut water, and herbal teas)"
+Common Cold,Warm soups ( chicken or vegetable soup)
+Common Cold,"Citrus fruits (oranges, lemons)"
+Common Cold,Ginger tea with honey 
+Common Cold,"Hydrating foods (watermelon, cucumbers)"
+Common Cold,Spices like turmeric in warm milk
+Pneumonia,"Foods high in protein (eggs, lean chicken) for muscle repair. "
+Pneumonia,"Probiotic-rich foods (yogurt, kefir) to restore gut health post-antibiotics. "
+Pneumonia,"Green leafy vegetables (spinach, kale) for essential vitamins. "
+Pneumonia,"Warm fluids (herbal teas, broths) to ease congestion."
+Pneumonia,Avoid processed and fried foods to reduce inflammation. 
+Dimorphic hemmorhoids(piles),"High-fiber foods like oats, lentils, and beans for easier bowel movements. "
+Dimorphic hemmorhoids(piles),"Fruits with skin (apples, pears) for added fiber. "
+Dimorphic hemmorhoids(piles),"Leafy greens (spinach, collards) for better digestion. "
+Dimorphic hemmorhoids(piles),Hydrating foods like cucumbers and watermelon to prevent constipation. 
+Dimorphic hemmorhoids(piles),Whole grains like brown rice and quinoa. 
+Heart attack,"Omega-3 rich foods (salmon, flaxseeds) to reduce inflammation. "
+Heart attack,Nuts like almonds and walnuts for heart-healthy fats. 
+Heart attack,"Whole grains (oats, barley) to lower cholesterol. "
+Heart attack,"Fresh vegetables (broccoli, carrots) for antioxidants. "
+Heart attack,Avoid salt-heavy foods to control blood pressure. 
+Varicose veins,"Foods high in flavonoids (blueberries, citrus fruits) to improve blood flow. "
+Varicose veins,"Dark leafy greens (spinach, kale) for vitamin K. "
+Varicose veins,Garlic and ginger to reduce inflammation. 
+Varicose veins,"Whole grains (brown rice, quinoa) for fiber. "
+Varicose veins,Avoid salty foods to prevent water retention. 
+Hypothyroidism,"Iodine-rich foods (iodized salt, seaweed) to support thyroid function. "
+Hypothyroidism,"Selenium-rich foods (Brazil nuts, sunflower seeds) for thyroid health. "
+Hypothyroidism,"Zinc-rich foods (chickpeas, pumpkin seeds). "
+Hypothyroidism,Lean proteins like eggs and chicken for energy. 
+Hypothyroidism,"Avoid goitrogens (soy, raw cruciferous vegetables). "
+Hyperthyroidism,"Foods rich in calcium (yogurt, almonds) to strengthen bones. "
+Hyperthyroidism,"Antioxidant-rich foods (berries, tomatoes) to reduce oxidative stress. "
+Hyperthyroidism,"Leafy greens (kale, spinach) for added nutrients. "
+Hyperthyroidism,"Whole grains (brown rice, oatmeal) for steady energy. "
+Hyperthyroidism,Avoid caffeine and spicy foods to manage symptoms. 
+Hypoglycemia,"Complex carbohydrates (whole grains, sweet potatoes) to maintain stable blood sugar. "
+Hypoglycemia,"Small, frequent meals to prevent sugar drops. "
+Hypoglycemia,"Protein-rich snacks (nuts, Greek yogurt). "
+Hypoglycemia,Fresh fruits like bananas for quick energy. 
+Hypoglycemia,Avoid sugary drinks and processed snacks. 
+Osteoarthristis,"Omega-3 rich foods (salmon, walnuts) for joint lubrication. "
+Osteoarthristis,"Anti-inflammatory foods (turmeric, ginger). "
+Osteoarthristis,"Calcium-rich foods (milk, kale) for bone health. "
+Osteoarthristis,"Vitamin D sources (egg yolks, fortified milk). "
+Osteoarthristis,Avoid sugary or processed foods to reduce inflammation. 
+Arthritis,"Foods rich in Omega-3 fatty acids (flaxseeds, fish oil). "
+Arthritis,"Vitamin C-rich fruits (oranges, strawberries) for cartilage repair. "
+Arthritis,Olive oil for its anti-inflammatory properties. 
+Arthritis,Whole grains for steady energy and reduced inflammation. 
+Arthritis,Avoid trans fats and refined sugars. 
+(vertigo) Paroymsal Positional Vertigo,Hydrating foods like cucumbers and melons to prevent dehydration. 
+(vertigo) Paroymsal Positional Vertigo,"Potassium-rich foods (bananas, sweet potatoes). "
+(vertigo) Paroymsal Positional Vertigo,"Vitamin D-rich foods (fish, fortified cereals). "
+(vertigo) Paroymsal Positional Vertigo,Ginger-based teas to ease nausea. 
+(vertigo) Paroymsal Positional Vertigo,Avoid salty foods to prevent fluid imbalance. 
+Acne,"Low-glycemic foods (whole grains, legumes) to reduce breakouts. "
+Acne,"Antioxidant-rich fruits (berries, citrus). "
+Acne,"Omega-3 sources (salmon, chia seeds) for skin health. "
+Acne,Green tea for anti-inflammatory properties. 
+Acne,Avoid dairy and sugar-heavy foods. 
+Urinary tract infection,Cranberry juice to prevent bacterial adhesion. 
+Urinary tract infection,"Probiotic-rich foods (yogurt, sauerkraut) to promote good bacteria. "
+Urinary tract infection,"Vitamin C-rich fruits (oranges, kiwis). "
+Urinary tract infection,Hydrating foods like cucumbers and water-rich fruits. 
+Urinary tract infection,Avoid spicy and caffeinated foods. 
+Psoriasis,"Fatty fish (salmon, mackerel) for Omega-3s. "
+Psoriasis,"Dark leafy greens (spinach, kale) for detoxification. "
+Psoriasis,"Antioxidant-rich berries (blueberries, strawberries). "
+Psoriasis,Olive oil for anti-inflammatory benefits. 
+Psoriasis,Avoid alcohol and processed foods. 
+Impetigo,"Foods high in Vitamin C (oranges, pineapples) to boost immunity. "
+Impetigo,"Zinc-rich foods (pumpkin seeds, chickpeas) for wound healing. "
+Impetigo,"Probiotic foods (yogurt, kefir) to maintain skin health. "
+Impetigo,Hydrating soups and broths for recovery. 
+Impetigo,Avoid sugary and fried foods to reduce inflammation. 
