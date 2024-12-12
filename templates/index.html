@@ -23,29 +23,26 @@
 </head>
 <body>
 <!-- main form of page -->
-    <h1 class="mt-4 my-4 text-center text-green">My Health Center</h1>  
-    <p class="text-center text-muted">Welcome to My Health Center, we are here to help you with your health and wellness needs.</p>    
+<h1 class="text-center my-5" style="color: #333; font-family: 'Roboto', sans-serif; font-weight: bold;">
+    <i class="bi bi-heart-pulse-fill" style="color: #dc3545; margin-right: 10px;"></i> My Health Centre.
+</h1>    <p class="text-center text-muted">Welcome to My Health Center, we are here to help you with your health and wellness needs.</p>    
     
-<div class="container main-class" style="background-color: #ffffff; border: 1px solid #dcdcdc; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <form action="/predict" method="post">
-        <div class="form-group">
-            <label for="symptoms">Select Symptoms:</label>
-            <input type="text" class="form-control" id="symptoms" name="symptoms" placeholder="Type symptoms such as itching, skin_rash, headache, etc." style="border-radius: 5px; padding: 10px;">
-        </div>
-        <br>
-
-        {% if message %}
-            <p style="color: #dc3545; font-weight: bold;">{{ message }}</p>
-        {% endif %}
-        <br>
-
-        <button type="submit" class="btn btn-danger btn-lg" style="width: 100%; padding: 14px; margin-bottom: 5px; border-radius: 5px; background-color: #dc3545; border: none; color: #fff; font-size: 18px; font-weight: bold; transition: background-color 0.3s;">
-            Predict
-        </button>
-    </form>
-</div>
-
-
+    <div class="container main-class" style="background-color: #f9f9f9; border: 1px solid #e0e0e0; border-radius: 15px; padding: 25px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);">
+        <form action="/predict" method="post">
+            <div class="form-group">
+                <label for="symptoms" style="color: #555; font-size: 16px; font-weight: 500;">Select Symptoms:</label>
+                <input type="text" class="form-control" id="symptoms" name="symptoms" placeholder="e.g., itching, skin rash, headache..." style="border-radius: 8px; padding: 12px; font-size: 16px; border: 1px solid #ccc;">
+            </div>
+            <br>
+            {% if message %}
+                <p style="color: #dc3545; font-weight: bold; text-align: center; font-size: 16px;">{{ message }}</p>
+            {% endif %}
+            <br>
+            <button type="submit" class="btn btn-danger btn-lg" style="width: 100%; padding: 14px; border-radius: 10px; background: linear-gradient(135deg, #e63946, #dc3545); border: none; color: white; font-size: 18px; font-weight: bold; transition: transform 0.2s;">
+                <i class="bi bi-send-fill me-2"></i> Predict
+            </button>
+        </form>
+    </div>
 
 {% if predicted_disease %}
 
@@ -109,7 +106,7 @@
                     <!-- Predicted Disease Text -->
                     <p class="fs-5 text-dark fw-semibold mb-4">
                         We predict that the disease might be: 
-                        <span class="text-primary fw-bold">{{ predicted_disease }}</span>
+                        <span class="text-danger fw-bold">{{ predicted_disease }}</span>
                     </p>
                     <!-- CTA Button -->
                     <button type="button" class="btn btn-lg btn-gradient text-white px-4 py-2" data-bs-dismiss="modal" style="background: linear-gradient(135deg, #ff6f61, #e63946); border: none; border-radius: 50px;">
@@ -117,7 +114,6 @@
                     </button>
                 </div>
             </div>
-            <!-- Optional Footer -->
             <div class="modal-footer justify-content-center" style="background: #f1f5f9; border-top: 1px solid #dee2e6;">
                 <p class="small text-muted mb-0">
                     <i class="bi bi-info-circle me-1"></i> For accurate diagnosis, please consult a healthcare professional.
@@ -156,7 +152,6 @@
                         </button>
                     </div>
                 </div>
-                <!-- Optional Footer -->
                 <div class="modal-footer justify-content-center" style="background: #f1f5f9; border-top: 1px solid #dee2e6;">
                     <p class="small text-muted mb-0">
                         <i class="bi bi-lightbulb me-1"></i> Please review this description carefully.
@@ -201,7 +196,6 @@
                     </div>
                 </div>
             </div>
-            <!-- Optional Footer -->
             <div class="modal-footer justify-content-center" style="background: #f1f5f9; border-top: 1px solid #dee2e6;">
                 <p class="small text-muted mb-0">
                     <i class="bi bi-lightbulb me-1"></i> Follow these precautions for better health outcomes.
@@ -246,7 +240,6 @@
                         </div>
                     </div>
                 </div>
-                <!-- Optional Footer -->
                 <div class="modal-footer justify-content-center" style="background: #f1f5f9; border-top: 1px solid #dee2e6;">
                     <p class="small text-muted mb-0">
                         <i class="bi bi-lightbulb me-1"></i> Consult your doctor before taking any medications.
@@ -291,7 +284,6 @@
                         </div>
                     </div>
                 </div>
-                <!-- Optional Footer -->
                 <div class="modal-footer justify-content-center" style="background: #f1f5f9; border-top: 1px solid #dee2e6;">
                     <p class="small text-muted mb-0">
                         <i class="bi bi-lightbulb me-1"></i> Follow a healthy diet for better well-being.
